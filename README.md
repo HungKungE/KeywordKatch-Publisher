@@ -99,3 +99,9 @@ KeywordKatch는 다음과 같은 3개의 컴포넌트로 구성됩니다.
  ## 프로젝트 자료
  - [시연영상](https://youtu.be/VxoKp9eqN8I)
  - [페이지 디자인](https://www.figma.com/file/KSb9N8KkD4jluDenMq4H9b/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-UI?type=design&node-id=0-1&mode=design)
+
+## 프로젝트 후기
+MSA로 서버를 기능단위로 나누어서 각자 개발하는 경험을 할 수 있었다.
+또한 aws 배포, 이메일 폼 생성, 전송 등의 경험도 할 수 있었다.
+아쉬운 점이 있다면 내가 맡은 component는 독자적인 DB가 필요하지 않아서
+RDS를 사용하지 못한 것이 아쉬웠다.
