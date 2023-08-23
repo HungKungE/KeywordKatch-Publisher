@@ -36,7 +36,8 @@ KeywordKatch는 다음과 같은 3개의 컴포넌트로 구성됩니다.
 <details>
 <summary><b>RDS 연결 및 DB data열람</b></summary>
 <div markdown="1">
-### 사용 기술
+
+ ### 사용 기술
  <div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/aws_RDS-E34F26?style=for-the-badge&logo=amazon&logoColor=white">
